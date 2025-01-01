@@ -1,0 +1,15 @@
+Juhair: Hey Mikkal, have you started looking at that algorithms homework? I'm stuck on the part with the graph traversal.
+
+Mikkal: Yeah, I started working on it. The BFS and DFS parts are straightforward, but I’m having trouble understanding how to implement the priority queue for Dijkstra’s algorithm. It’s a bit tricky.
+
+Juhair: I had the same issue! It took me a while to get my head around how the priority queue works with Dijkstra’s. What helped me was using a min-heap for the queue. Have you tried that?
+
+Mikkal: I think I need to dive deeper into min-heaps. I just read the theory, but I haven’t really practiced implementing one yet. I’m planning to try it this weekend.
+
+Juhair: That’s a good approach. I’d suggest also looking into how the heap operations work because that’s where most of the confusion comes from. Once you get the hang of it, the algorithm will make more sense.
+
+Mikkal: Sounds like a plan! I’m also thinking of brushing up on dynamic programming. I heard it’s really useful for some of the harder problems in the course.
+
+Juhair: Absolutely! Dynamic programming is really powerful once you understand the memoization and tabulation techniques. It’s all about solving smaller subproblems and building up to the final solution.
+
+Mikkal: Exactly! I was thinking of doing some practice problems on LeetCode. That’s where I’ve seen a lot of DP questions. Do you think that would be enough to prepare for the exam?

@@ -1,0 +1,17 @@
+Alex: Hey Sam, have you decided on your specialization in computer science yet?
+
+Sam: Not yet, Alex. I'm torn between data science and cybersecurity. What about you?
+
+Alex: I’m leaning towards artificial intelligence. It’s fascinating how machines can learn and adapt.
+
+Sam: True, AI is super interesting. But cybersecurity feels more critical with all the data breaches happening these days.
+
+Alex: That’s a good point. Both fields have excellent career prospects. Have you taken any related courses yet?
+
+Sam: Yeah, I took a course on network security last semester. It was tough but rewarding.
+
+Alex: Nice! I’m currently enrolled in a machine learning class. It’s challenging but so satisfying when a model works as expected.
+
+Sam: Sounds exciting. Maybe we should help each other out when we dive deeper into our chosen fields.
+
+Alex: Absolutely, teamwork always makes it easier.
